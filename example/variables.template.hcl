@@ -1,0 +1,11 @@
+api_token=""
+ssh_username="root"
+ssh_key_id=""
+ssh_private_key_file=""
+project="testing"
+image="ubuntu-23-10-x64"
+region="nyc1"
+size="s-2vcpu-4gb"
+private_networking=false
+monitoring=true
+tags=["", ""]
